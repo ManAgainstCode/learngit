@@ -14,3 +14,5 @@ Test branch.
 Test branch.
 
 on branch masterfeature.
+
+Test strategy.
